@@ -1,0 +1,2 @@
+# Ex1-avaliativa
+(Exe1) Faça um script que leia a idade, o peso e a altura de N pessoas através de um         formulário, crie um botão Cadastro que deverá cadastrar os dados em vetores e um botão         CALCULAR que deverá chamar uma função capaz de calcular e mostrar:         - todos os dados lidos em uma tabela com borda         - a quantidade de pessoas com peso superior ou igual a 90 quilos e acima de 1,50             metros         As informações acima devem ser exibidas dentro de um elemento HTML5 utilizando o         innerHTML
